@@ -1,0 +1,13 @@
+img {
+    width: 450px;
+    border-radius: 10px;
+}
+
+#firstElement, .secondElement {
+    cursor: pointer;
+}
+
+.buttons-padding {
+    padding: 10px;
+}
+
